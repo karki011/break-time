@@ -4,8 +4,9 @@
 
 2. rename file
     rename group of files all together
+4. draw shape
 
-3. create movies page
+5. create movies page
     create movies page 
         with trailer
             storyline
